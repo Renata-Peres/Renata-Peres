@@ -6,7 +6,7 @@
   My name is <strong>Renata Peres</strong> 
   <br>
   <br>
-  I´m a brazilian <strong>Computer Science</strong> and <strong>Dev Front-End</strong> student
+  I´m a brazilian <strong>Computer Science</strong> and <strong>Front-End Developer</strong> student
  <br>
  <br>
   I´m currently studying HTML, CSS, Git and Javascript and very eager to develop my first works soon.
@@ -24,7 +24,7 @@
 <p align="left">
   
   <a href="#" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/renata-peres-76b3881a9/" /></a>
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/renata-peres-76b3881a9" /></a>
 
   <a href="#" alt="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/5511997504517"/></a>
