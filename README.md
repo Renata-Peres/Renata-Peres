@@ -6,7 +6,7 @@
   My name is <strong>Renata Peres</strong> 
   <br>
   <br>
-  I´m a brazilian <strong>Computer Science</strong> and <strong>Front-End Developer</strong> student
+  I´m a brazilian <strong>Computer Science student</strong> and <strong>Front-End Developer</strong>
  <br>
  <br>
   I´m currently studying HTML, CSS, Git and Javascript and very eager to develop my first works soon.
